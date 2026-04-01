@@ -2,19 +2,19 @@
 # 👋 Hello World! I am Manum Fatima  
 Electrical Engineer | QA | Robotics & AI Enthusiast  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://pk.linkedin.com/in/manum-fatima)  [![Gmail](https://img.shields.io/badge/Email-red)](manumfatima2000@gmail.com)  
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://pk.linkedin.com/in/manum-fatima)
 
 ## 🌱 About Me
 - 🎓 Bachelor's in Electrical Engineering  
 - 💻 Passionate about **Robotics, AI/ML, and Communications**  
 - 📊 Building projects that combine **machine learning and robotics with advanced research**  
-- 🚀 Actively preparing for **opportunities in AI/ML, wireless communication, and robotics** 
+- 🚀 Actively preparing for **opportunities in AI/ML, wireless communication, and robotics**
+- ✨ Believe in **learning by building and love research**
 
 ---
 
 ## 🛠️ Skills
-**Languages & Tools:**  
-`Python` `C++` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-Learn`  
- `React` `SQL` `Git` `GitHub`  
+**Programming:** Python, C++  
+**Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
+**Tools:** Git, GitHub, Jupyter Notebook, Anaconda  
+**Interests:** Robotics, AI/ML, Communications, Quantum Technologies, Astrophyiscs
