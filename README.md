@@ -10,6 +10,7 @@ Electrical Engineer | QA | Robotics & AI Enthusiast
 - 📊 Building projects that combine **machine learning and robotics with advanced research**  
 - 🚀 Actively preparing for **opportunities in AI/ML, wireless communication, and robotics**
 - ✨ Believe in **learning by building and love research**
+- 📫 How to reach me: manumfatima2000@gmail.com
 
 ---
 
