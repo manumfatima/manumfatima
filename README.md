@@ -1,6 +1,8 @@
 
-# Manum Fatima  
+<h1 align="center">Manum Fatima</h1>
+
 Electrical Engineer | QA | Robotics & AI Enthusiast  
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://pk.linkedin.com/in/manum-fatima)
 
