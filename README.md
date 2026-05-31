@@ -1,5 +1,5 @@
 
-# 👋 Hello World! I am Manum Fatima  
+# Manum Fatima  
 Electrical Engineer | QA | Robotics & AI Enthusiast  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://pk.linkedin.com/in/manum-fatima)
@@ -18,4 +18,4 @@ Electrical Engineer | QA | Robotics & AI Enthusiast
 **Programming:** Python, C++  
 **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
 **Tools:** Git, GitHub, Jupyter Notebook, Anaconda  
-**Interests:** Robotics, AI/ML, Communications, Quantum Technologies, Astrophyiscs
+**Interests:** Robotics, AI/ML, Communications, Quantum Technologies, Astrophysics
