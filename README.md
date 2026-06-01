@@ -1,8 +1,6 @@
-
 <h1 align="center">Manum Fatima</h1>
 
 Electrical Engineer | QA | Robotics & AI Enthusiast  
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://pk.linkedin.com/in/manum-fatima)
 
@@ -18,6 +16,9 @@ Electrical Engineer | QA | Robotics & AI Enthusiast
 
 ## Skills
 **Programming:** Python, MATLAB
+
 **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
+
 **Tools:** Git, GitHub, Jupyter Notebook, Anaconda  
+
 **Interests:** Robotics, AI/ML, Communications, Quantum Technologies, Astrophysics
